@@ -1,5 +1,5 @@
 
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories)
+[![160744959694494596](https://cdn.discordapp.com/attachments/850263519848955904/870280927941640292/Github_Name_1.png)](https://github.com/Brianrmendes?tab=repositories)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/Brianrmendes" alt="profile views"> •  

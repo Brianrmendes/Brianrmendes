@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi 👋, I'm Brian Mendes
 
-<!--
-**Brianrmendes/Brianrmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<h3 align="center">
+![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
+</h3> -->
+
+[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories)
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
+  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
+  <a href="https://swyx.io">Blog</a> •
+  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">Twitter</a> •
+  <a href="https://github.com/sw-yx/README">Work README</a> •
+  <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a [GitHub Star ⭐](https://stars.github.com/) and Head of Developer Experience at [Temporal.io](https://temporal.io/). I do a lot of [speaking on React and Svelte](https://www.swyx.io/speaking/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and publish a [daily podcast](http://swyx.transistor.fm/) and [weekly newsletter](https://www.swyx.io/subscribe/) (subscribe!) curating the best of what I read and listen to. 
+
+--------------------------------------------
+A student, programmer, machine learning enthusiast..
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Python Projects
+- 🌱 I’m currently learning To create various apps in Python
+- 💬 Ask me about Machine Learning
+- 📫 How to reach me: mendesbrianr@gmail.com

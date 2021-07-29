@@ -17,11 +17,10 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a [GitHub Star ⭐](https://stars.github.com/) and Head of Developer Experience at [Temporal.io](https://temporal.io/). I do a lot of [speaking on React and Svelte](https://www.swyx.io/speaking/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and publish a [daily podcast](http://swyx.transistor.fm/) and [weekly newsletter](https://www.swyx.io/subscribe/) (subscribe!) curating the best of what I read and listen to. 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm[GitHub Star ⭐]A student, programmer, machine learning enthusiast..
+
 
 --------------------------------------------
-A student, programmer, machine learning enthusiast..
-
 
 
 Here are some ideas to get you started:

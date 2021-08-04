@@ -12,9 +12,6 @@
 
 --------------------------------------------
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python Projects
 - 🌱 I’m currently learning To create various apps in Python
 - 💬 Ask me about Machine Learning

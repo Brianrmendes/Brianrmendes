@@ -7,7 +7,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a student, programmer also a machine learning enthusiast..
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a student, programmer and a machine learning enthusiast..
 
 
 --------------------------------------------

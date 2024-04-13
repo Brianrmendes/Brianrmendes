@@ -1,12 +1,3 @@
-
-[![160744959694494596](https://cdn.discordapp.com/attachments/850263519848955904/870280927941640292/Github_Name_1.png)](https://github.com/Brianrmendes?tab=repositories)
-
-<p align="center">
-![](https://komarev.com/ghpvc/?username=Brianrmendes)
-</p>
-
----
-
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a student, programmer and a machine learning enthusiast..
 
 
